@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(187, 219, 240);
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    color:rgb(42, 15, 96)
+}
+p{
+    font-size: 20px;
+    color:black
+}
+table, tr, th, td {
+    border: 1px solid black;
+    width: 100%
+}
+tr{
+  width: 30%
+}
+th{
+  width: 30%
+}
+td{
+  width: 30%
+}
+div{
+    background-color: aliceblue;
+}
